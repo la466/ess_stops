@@ -1,0 +1,16 @@
+GRCh38.illumina.adipose.1.bam
+GRCh38.illumina.adrenal.1.bam
+GRCh38.illumina.blood.1.bam
+GRCh38.illumina.brain.1.bam
+GRCh38.illumina.breast.1.bam
+GRCh38.illumina.colon.1.bam
+GRCh38.illumina.heart.1.bam
+GRCh38.illumina.kidney.1.bam
+GRCh38.illumina.liver.1.bam
+GRCh38.illumina.lung.1.bam
+GRCh38.illumina.lymph.1.bam
+GRCh38.illumina.ovary.1.bam
+GRCh38.illumina.prostate.1.bam
+GRCh38.illumina.sk_muscle.1.bam
+GRCh38.illumina.testes.1.bam
+GRCh38.illumina.thyroid.1.bam
